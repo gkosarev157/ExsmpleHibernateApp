@@ -1,0 +1,3 @@
+models\User.class
+models\Auto.class
+utils\HibernateSessionFactoryUtil.class
